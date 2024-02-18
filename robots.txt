@@ -1,0 +1,3 @@
+user-agent : *
+Allow : /
+Sitemap: https://https://lotto.devsy.kr/sitemap.xml
